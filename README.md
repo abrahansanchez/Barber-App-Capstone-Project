@@ -43,7 +43,7 @@ Clients can call a dedicated number and interact with the following phone menu:
 ### Frontend
 - React.js for dashboard and client booking interface  
 - Tailwind CSS for styling  
-- (Optional) React Native / Expo for a mobile version  
+ 
 
 ### Backend
 - Node.js + Express.js for server and routing  
